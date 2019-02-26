@@ -1,0 +1,23 @@
+{
+  "name": "data-stopwatch",
+  "version": "0.1.0",
+  "description": "Measure the elapsed time in your code between two moments",
+  "main": "./lib/Stopwatch.js",
+  "types": "./lib/Stopwatch.d.ts",
+  "repository": "pedromsilvapt/data-stopwatch",
+  "keywords": [
+    "stopwatch",
+    "time",
+    "benchmark",
+    "clock"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pedro M. Silva <pemiolsi@hotmail.com>",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^10.0.3"
+  }
+}
